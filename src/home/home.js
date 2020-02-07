@@ -56,7 +56,7 @@ class Home extends React.Component {
                     <IconButton
                       aria-label="twitter"
                       className={classes.socialIcon}
-                      href="http://www.google.com"
+                      href="https://twitter.com/gmanideep1991"
                     >
                       <TwitterIcon />
                     </IconButton>
@@ -65,7 +65,7 @@ class Home extends React.Component {
                     <IconButton
                       aria-label="twitter"
                       className={classes.socialIcon}
-                      href="http://www.google.com"
+                      href="https://www.linkedin.com/in/manideep-gattamaneni/"
                     >
                       <LinkedInIcon />
                     </IconButton>
@@ -74,7 +74,7 @@ class Home extends React.Component {
                     <IconButton
                       aria-label="twitter"
                       className={classes.socialIcon}
-                      href="http://www.google.com"
+                      href="https://github.com/gmanideep1991"
                     >
                       <GitHubIcon />
                     </IconButton>
